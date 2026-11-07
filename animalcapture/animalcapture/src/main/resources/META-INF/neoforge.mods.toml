@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "animalcapture"
+version = "1.0.0"
+displayName = "Animal Capture"
+description = '''
+Hold the capture key and right-click an animal to turn it into an item.
+Right-click a block with the item to release the animal exactly as it was.
+'''
+
+[[dependencies.animalcapture]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.animalcapture]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"

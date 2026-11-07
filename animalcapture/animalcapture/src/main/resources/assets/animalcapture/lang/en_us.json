@@ -1,0 +1,7 @@
+{
+  "item.animalcapture.captured_animal": "Captured Animal",
+  "item.animalcapture.captured_animal.named": "Captured %s",
+  "item.animalcapture.captured_animal.tooltip": "Right-click a block to release",
+  "key.animalcapture.capture": "Capture Animal (hold + right-click)",
+  "key.categories.animalcapture": "Animal Capture"
+}

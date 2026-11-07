@@ -1,0 +1,7 @@
+{
+  "item.animalcapture.captured_animal": "捕獲した動物",
+  "item.animalcapture.captured_animal.named": "捕獲した%s",
+  "item.animalcapture.captured_animal.tooltip": "ブロックを右クリックで解放",
+  "key.animalcapture.capture": "動物を捕獲(押しながら右クリック)",
+  "key.categories.animalcapture": "Animal Capture"
+}
